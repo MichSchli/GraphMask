@@ -40,7 +40,7 @@ To experiment with other analysis techniques, you can change the analysis strate
 
 **Downloading Data**
 
-For both tasks, download the [840B Common Crawl GloVe embeddings](https://nlp.stanford.edu/projects/glove/) and place the file in *data/glove/*. For the question answering task, download the [Qangaroo dataset](http://qangaroo.cs.ucl.ac.uk/) and place the files in *data/qangaroo_v1.1/*. For the SRL task, follow the instructions [here](https://github.com/diegma/neural-dep-srl) to download the CoNLL-2009 dataset and generate vocabulary files. Place both dataset and vocabulary files in *data/conll2009/*.
+For both the question answering and the SRL task, download the [840B Common Crawl GloVe embeddings](https://nlp.stanford.edu/projects/glove/) and place the file in *data/glove/*. For the question answering task, download the [Qangaroo dataset](http://qangaroo.cs.ucl.ac.uk/) and place the files in *data/qangaroo_v1.1/*. For the SRL task, follow the instructions [here](https://github.com/diegma/neural-dep-srl) to download the CoNLL-2009 dataset and generate vocabulary files. Place both dataset and vocabulary files in *data/conll2009/*.
 
 **Citation**
 
